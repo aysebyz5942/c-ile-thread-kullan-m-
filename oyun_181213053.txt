@@ -1,0 +1,10 @@
+rdeger=67
+ A=3 B=20 
+oyuncu 1 tahmin: 87
+oyuncu 1 gecen sure:2576.857600 ms
+oyuncu 2 tahmin: 54
+oyuncu 2 gecen sure: 1691.694600 ms
+oyuncu 1 tahmin: 43
+oyuncu 1 gecen sure:2471.234500 ms 
+Kazanan:oyuncu 2
+toplam sure:6739.786700 ms 
